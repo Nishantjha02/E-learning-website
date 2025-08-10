@@ -55,32 +55,6 @@ A **full-featured MERN stack** online learning platform with secure authenticati
 - AWS S3
 - Nodemailer
 
----
-
-## 📂 Project Structure
-
-e-learning-platform/
-│
-├── client/ # React frontend
-│ ├── public/
-│ ├── src/
-│ │ ├── components/ # Reusable UI components
-│ │ ├── pages/ # Route-based pages
-│ │ ├── redux/ # Redux store & slices
-│ │ └── utils/ # Helper functions
-│ └── package.json
-│
-├── server/ # Node.js backend
-│ ├── config/ # DB, AWS, Razorpay config
-│ ├── controllers/ # Route logic
-│ ├── middlewares/ # Auth & error handling
-│ ├── models/ # Mongoose schemas
-│ ├── routes/ # API endpoints
-│ └── server.js
-│
-└── README.md
-
----
 
 ## ⚙️ Installation & Setup
 
